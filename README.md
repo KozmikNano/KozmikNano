@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ython | Java | C++  
+- 💻 &nbsp; python | Java | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Full Adobe Suite

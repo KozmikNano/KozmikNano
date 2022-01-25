@@ -1,18 +1,16 @@
 <h2> Hi, I am KozmikNano!</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning TyperScript.
-- 🤔 &nbsp; I am still building up the best coding practices.
-- 🎓 &nbsp; Studying discord bots how proxy servers work.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+-  &nbsp; I create Discord bots
+-  Some what Active devolper of [2bored2wait](https://github.com/themoonisacheese/2bored2wait)
 
-<h3>🛠 Tech Stack</h3>
+<h3> What I have worked with, and what I have.</h3>
 
-- 💻 &nbsp; python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Full Adobe Suite
+- &nbsp; python | Java | C++  
+- &nbsp; HTML | CSS | JavaScript
+- &nbsp; Visual Studio code | Git
+- &nbsp; Full Adobe Suite
 
 <br>
 

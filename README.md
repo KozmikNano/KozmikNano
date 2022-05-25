@@ -1,32 +1,19 @@
-## Hi, I am KozmikNano!
 
-### 👨🏻‍💻 About Me 
+![Logo](//0.gravatar.com/avatar/d1fd3d322eb0fbf389a30c3c1b00ccc1?s=120.png)
 
-- 🔭 &nbsp; I’m currently learning TyperScript.
-- 🤔 &nbsp; School takes awhile so don’t expect any code rn!
-- 🎓 &nbsp; Working in my html and css skills for my proxy server!
-- ☕ &nbsp; Hot or cold, coffee is needed…
+# KozmikNano
 
-### 🛠 Tech Stack
+I am a programmer that likes to play minecraft!
 
-- 💻 &nbsp; python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Full Adobe Suite
+## 🚀 About Me
+I am a programmer a minecraft player. I am most active during the `11:00 to 15:00 EST` on weekends. I am located Georgia USA and I am always open for new things. Feel free to hit me up on discord! 
 
 
-
-#
-#
-#
-#
-#
-#
-#
-#
-#
+## 🛠 Skills
+I curently can code in Javascript, HTML, CSS, and Python
 
 
-
-> > I wish I could draw my fox fursona. It shall live in my brain for now
->  - Nano
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+![](https://dcbadge.vercel.app/api/shield/809877801774612490?theme=default-inverted&compact=true)

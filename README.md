@@ -7,7 +7,7 @@
 I am a programmer that likes to play minecraft!
 
 ## 🚀 About Me
-I am a programmer a minecraft player. I am most active during the `11:00 to 15:00 EST` on weekends. I am located Georgia USA and I am always open for new things. Feel free to hit me up on discord! 
+I am a programmer and minecraft player. I am most active during the `11:00 to 15:00 EST` on weekends. I am located Georgia, USA and I am always open for new things. Feel free to hit me up on discord! 
 
 
 ## Other Common Github Profile Sections

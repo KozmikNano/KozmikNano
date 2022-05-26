@@ -10,7 +10,7 @@ I am a programmer that likes to play minecraft!
 I am a programmer and minecraft player. I am most active during the `11:00 to 15:00 EST` on weekends. I am located Georgia, USA and I am always open for new things. Feel free to hit me up on discord! 
 
 
-## Other Common Github Profile Sections
+## Some more things:
 👩‍💻 I'm currently working on a cool web proxy site.
 
 🧠 I'm currently learning nothing.
@@ -40,7 +40,7 @@ I curently can code in Javascript, HTML, CSS, and Python
 
 
 
-## Related
+## Projects
 
 Here are some of my favorite projects:
 
